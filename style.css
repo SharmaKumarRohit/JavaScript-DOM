@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+}
+
+/* #box {
+    height: 300px;
+    width: 300px;
+    background-color: salmon;
+} */
+
+/* h1 {
+    color: green;
+    font-size: 100px;
+} */
+
+/* #blub {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid #222;
+    margin-bottom: 3vw;
+}
+
+button {
+    padding: 0.8vw 1.5vw;
+    cursor: pointer;
+} */
